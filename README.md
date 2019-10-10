@@ -24,6 +24,8 @@ Trump's grammar is
 ```
 {
 <start>
-<enemy> <criticism>! There is <unwarrented-superlative> confidence that the moves that my Administration is making are <unwarrented-superlative-adverb> successful and <ostentation> even though <dubious-excuse>. We'll see what happens when I <trope>, believe me. <threat>    ;
+<enemy> <criticism>! 
+There is <unwarrented-superlative> confidence that the moves that my Administration is making are <unwarrented-superlative-adverb> successful and <ostentation> even though <dubious-excuse>.
+We'll see what happens when I <trope>, believe me. <threat>;
 }
 ```
